@@ -1,0 +1,1 @@
+ python tmkoc_single.py "https://youtu.be/p7JfUn5AvH8?si=OFkgwQb-rqhEP6Ci" --debug > log.txt 2>&1

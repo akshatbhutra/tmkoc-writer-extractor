@@ -1,0 +1,102 @@
+D:\tmkoc-writer-extractor\venv\Lib\site-packages\torch\ao\nn\quantized\dynamic\modules\rnn.py:162: UserWarning: torch.quantize_per_tensor, torch.quantize_per_channel and other quantized tensor creation functions that produce tensors with dtype torch.quint8, torch.qint8, and torch.qint32 are deprecated and will be removed in a future PyTorch release. Please see https://github.com/pytorch/pytorch/issues/184982 for more information. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\aten\src\ATen\quantized\Quantizer.cpp:116.)
+  w_ih = torch.quantize_per_tensor(
+Downloading 20s-25s ...
+Title: Taarak Mehta Ka Ooltah Chashmah - तारक मेहता का उल्टा चशमाह - Episode 1000 - Full Episode
+Loading OCR model ...
+
+[  20.0s] stage-1 OCR:
+    0.40  Supervising Producer
+    0.87  For SAB
+    0.44  Manjlt Sachdev
+    0.00  DISCLAIMER: manwiuraeDा Iiriwn WVायासा Cimawt allर
+
+[  20.5s] stage-1 OCR:
+    0.00  
+    0.95  Supervising Producer
+    0.43  For SB
+    0.61  Manjlt Sachdev
+    0.00  DISCLAIMER: TtnlWl iftom Wuugirell Celia wuallis ITlUIR UOIU
+
+[  21.0s] stage-1 OCR:
+    0.43  supervising Producer
+    0.01  F% S& "
+    0.21  ManTt Sachdey
+    0.00  DISCLNIMER: TEIUWTinगा wtuil wr allI dlLR WoाilWELD
+
+[  21.4s] stage-1 OCR:
+    0.01  DISCLAIMER: Tगl Qrani wl allw Ialllatoाimumin   Tlietun
+
+[  21.9s] stage-1 OCR:
+    0.29  Written  
+    0.16  Raiu Ocedra
+    0.52  Ralerupadhyay
+    0.01  DISCLAIMER: ITLUd IDiuuwiIu
+    0.03  Tligunniell mikY IT
+
+[  22.4s] stage-1 OCR:
+    0.33  Written br
+    0.20  Raju Ocedla
+    0.83  Rajen Upadlhyay
+    0.58  DISCLAIMER:
+    0.01  IIgIN Aaluuldlgl1!8
+    0.00  liसwtuuitel dw liuu Iiuciuuo
+
+[  22.9s] stage-1 OCR:
+    0.53  Written by
+    0.70  Raju Odedra
+    0.77  Rajen Upadhyay
+    0.00  DISCLAIMER: iDuiirg   Tli tilaul Cn Itu Inatterul Uo IuIU , WDEI
+[ 22.9s] keyword 'Written by' (0.53) -> reading names
+      [gray] -> Raju Ocleaa (0.48) | Rajen Upadhhyaj (0.39)
+      [green_otsu] -> tajuDwt (0.57) | Rajen Upadhya (0.50)
+      [plain] -> Raju Odedra (0.82) | Rajen Upadhyay (0.44)
+
+[  23.4s] stage-1 OCR:
+    0.54  watten by
+    0.80  Raju Odedra
+    0.40  Rajen Upadhyay
+    0.00  DISCLAIMER: Il tiieilaiuऊ litT Ilatreiiidl toluiu Grriia WL CUD
+[ 23.4s] keyword 'watten by' (0.54) -> reading names
+      [gray] -> Raju Odleda (0.94) | Rajen Upadhhyay (0.54) | DISCLAIMER: |l11u8 Cumneil Clokey IIUL IatreiDil Uo luit णtriiuid @L Clan (0.15)
+      [green_otsu] -> ४ठ aju Dwt (0.19) | २zjen Upadhya (0.51) | DISCLAIMER: lt tumHi 0 I Itinil Io Inut . tiूud णाdt (0.45)
+      [plain] -> Raju Odedra (0.60) | Rajen Upadhyay (0.67)
+
+[  23.8s] stage-1 OCR:
+    0.80  Wrtten by
+    0.59  Raju Odedlra
+    0.54  Rajen Upadhyay
+    0.23  DISCLAIMER: -ltu
+    0.00  Ieeluthio liulii, Crtineuarmi WITEaI Din I
+    0.01  iU0
+[ 23.8s] keyword 'Wrtten by' (0.80) -> reading names
+      [gray] -> Raju Odletia (0.70) | Rajen Upadhhyay (0.48)
+      [green_otsu] -> ajuodtr (0.73) | Rjen Upadhya (0.43)
+      [plain] -> Raju Odedra (0.68) | Rajen Upadhyay (0.63)
+
+[  24.3s] stage-1 OCR:
+    0.96  Written by
+    0.62  Raju Odetla
+    0.91  Rajen Upadhyay
+    0.00  DISCLAIMER: Tilituuttout. alarineua Wl wteltiehin Diit Illuath
+[ 24.3s] keyword 'Written by' (0.96) -> reading names
+      [gray] -> Raju Odletia (0.55) | Rajen Upadhhyay (0.59)
+      [green_otsu] -> ajuodar (0.57) | Rajon Upadhya (0.31) | DISCLAIMER: idinal tp ttutt dDndld rnl liniina Iitt udinala (0.44)
+      [plain] -> Raju Odedla (0.57) | Rajen Upadhyay (0.52)
+
+[  24.8s] stage-1 OCR:
+    0.80  Written by
+    0.71  Raju Odedlra
+    0.84  Rajen Upadhyay
+    0.00  DISCLAIMER: Iutt dlumih णा Uगemmn Dinnt fofाणा JIवाोणन
+[ 24.8s] keyword 'Written by' (0.80) -> reading names
+      [gray] -> Raju Ocleta (0.86) | Rajen Upadhhyay (0.76)
+      [green_otsu] -> ?ी aju Ddbdr (0.19) | Rajon Upadhya (0.66) | DISCLAIMER: Muit . iiaiHidt णr CटIIKIAI Iit ftiiiHS pri nWYफDप्प्ा (0.37)
+      [plain] -> Raju Odedra (0.89) | Rajen Upadhyay (0.46)
+
+==== RESULT ====
+Episode      : 1000
+Writers      : Raju Odedra | Rajen Upadhyay
+Raw OCR      : Raju Odedra | Rajen Upadhhyay   (snapped to known names)
+Confidence   : 0.66   from 15 reading(s)
+Keyword first seen at 22.9s
+Saved: single_result.csv

@@ -1,0 +1,5 @@
+yt-dlp>=2024.1.0
+opencv-python>=4.8
+easyocr>=1.7
+pandas>=2.0
+numpy>=1.24
